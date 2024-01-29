@@ -1,5 +1,22 @@
-* { 
-    background: #000;
-    margin: 0;
-    padding: 0; 
+* {
+    background: #acdef5;
+}
+
+h1 { 
+    color: #5f0707;
+    text-align: center;
+    padding: 1rem;
+}
+
+form {
+    text-align: center;
+    padding: 1rem;
+    border-radius: 5px;  
+}
+button {
+    background-color: #5f0707;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: none;
 }
